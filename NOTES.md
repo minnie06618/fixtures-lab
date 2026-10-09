@@ -9,3 +9,4 @@
 - note 17: line length follows the editor config (2026-10-09T23:58:58)
 - note 19: temporary notes are pruned weekly (2026-10-09T23:59:13)
 - note 21: the retry section mirrors the code (2026-10-09T23:59:32)
+- note 23: paths in examples stay relative (2026-10-09T23:59:47)
