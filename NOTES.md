@@ -7,3 +7,4 @@
 - note 13: names follow the directory layout (2026-10-09T23:58:28)
 - note 15: the sample command stays copy-pasteable (2026-10-09T23:58:43)
 - note 17: line length follows the editor config (2026-10-09T23:58:58)
+- note 19: temporary notes are pruned weekly (2026-10-09T23:59:13)
