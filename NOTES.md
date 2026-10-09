@@ -1,0 +1,1 @@
+- note 1: the sample command stays copy-pasteable (2026-10-09T23:56:55)
